@@ -1,0 +1,10 @@
+D:\University of Advaced Technology\MS539\Assignment 1.2 Simulation with C#\bin\Debug\Assignment 1.2 Simulation with C#.exe.config
+D:\University of Advaced Technology\MS539\Assignment 1.2 Simulation with C#\bin\Debug\Assignment 1.2 Simulation with C#.exe
+D:\University of Advaced Technology\MS539\Assignment 1.2 Simulation with C#\bin\Debug\Assignment 1.2 Simulation with C#.pdb
+D:\University of Advaced Technology\MS539\Assignment 1.2 Simulation with C#\obj\Debug\Assignment 1.2 Simulation with C#.csproj.AssemblyReference.cache
+D:\University of Advaced Technology\MS539\Assignment 1.2 Simulation with C#\obj\Debug\Assignment_1._2_Simulation_with_C_.Form1.resources
+D:\University of Advaced Technology\MS539\Assignment 1.2 Simulation with C#\obj\Debug\Assignment_1._2_Simulation_with_C_.Properties.Resources.resources
+D:\University of Advaced Technology\MS539\Assignment 1.2 Simulation with C#\obj\Debug\Assignment 1.2 Simulation with C#.csproj.GenerateResource.cache
+D:\University of Advaced Technology\MS539\Assignment 1.2 Simulation with C#\obj\Debug\Assignment 1.2 Simulation with C#.csproj.CoreCompileInputs.cache
+D:\University of Advaced Technology\MS539\Assignment 1.2 Simulation with C#\obj\Debug\Assignment 1.2 Simulation with C#.exe
+D:\University of Advaced Technology\MS539\Assignment 1.2 Simulation with C#\obj\Debug\Assignment 1.2 Simulation with C#.pdb
